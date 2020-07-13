@@ -1,3 +1,5 @@
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FMicaelJarniac) <!-- https://hitcounter.pythonanywhere.com -->
+
 ### Hello!
 
 I'm Micael Jarniac, and I totally should write something about me here, but I can't think of what right now.
