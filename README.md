@@ -4,7 +4,7 @@
 
 ### Hello!
 
-I'm Micael Jarniac, and I totally should write something about me here, but I can't think of what right now.
+I'm Micael Jarniac, and I should totally write something about me here, but I can't think of what right now.
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![MicaelJarniac's GitHub stats](https://github-readme-stats.vercel.app/api?username=MicaelJarniac&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
