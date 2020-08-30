@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="clean-banner.png" alt="Micael Jarniac" width="40%">
+</div>
+
 ### Hello!
 
 I'm Micael Jarniac, and I should totally write something about me here, but I can't think of what right now.
