@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="clean-banner.png" alt="Micael Jarniac" width="40%">
+  <img src="https://github.com/MicaelJarniac/MicaelJarniac/blob/master/clean-banner.png" alt="Micael Jarniac" width="40%">
 </div>
 
 ### Hello!
